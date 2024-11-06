@@ -1,6 +1,6 @@
 # Hello I'm danihek
 
-I love all *nix, low level languages and Thinkpads.
+I love all *nix, simple languages and Thinkpads.
 
 I’m currently working on 🔥 [HellWM](https://github.com/HellSoftware/HellWM) 🔥 Wayland Compositor
 
