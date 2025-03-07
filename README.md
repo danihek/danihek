@@ -14,3 +14,7 @@
 ## 
 ![](https://raw.githubusercontent.com/danihek/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/danihek/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+If you want to support me:
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P31BM8SU)
